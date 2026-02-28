@@ -1,6 +1,6 @@
-# 📊 Predictive Financial Modeling using Machine Learning
+#  Predictive Financial Modeling using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on building a Machine Learning model to predict financial risk using historical financial data. The goal is to analyze customer financial attributes and accurately predict the likelihood of credit default.
 
@@ -8,7 +8,7 @@ The project applies data preprocessing, exploratory data analysis (EDA), model b
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To develop a predictive model that can:
 
@@ -19,7 +19,7 @@ To develop a predictive model that can:
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 
 The dataset used in this project contains financial and demographic information such as:
 
@@ -35,7 +35,7 @@ Dataset File:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -47,26 +47,26 @@ Dataset File:
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
-### 1️⃣ Data Preprocessing
+### 1. Data Preprocessing
 - Handling missing values
 - Feature selection
 - Encoding categorical variables
 - Train-test split
 
-### 2️⃣ Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 - Class distribution visualization
 - Correlation heatmap
 - Feature distribution analysis
 
-### 3️⃣ Model Building
+### 3. Model Building
 Models implemented:
 - Logistic Regression
 - Random Forest Classifier
 - Gradient Boosting
 
-### 4️⃣ Model Evaluation
+### 4. Model Evaluation
 Evaluation metrics used:
 - Accuracy
 - Precision
@@ -75,19 +75,17 @@ Evaluation metrics used:
 - ROC Curve
 - Confusion Matrix
 
-### 5️⃣ Model Interpretation
+### 5. Model Interpretation
 - SHAP Summary Plot
 - SHAP Feature Importance
 - Feature impact analysis
 
 ---
 
-## 📈 Results
+##  Results
 
 - Random Forest achieved strong classification performance.
 - Model effectively identified high-risk credit customers.
 - SHAP analysis provided insights into the most influential features affecting predictions.
 
----
 
-## 📂 Project Structure
